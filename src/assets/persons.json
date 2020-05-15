@@ -12322,6 +12322,22 @@
         "state": "Kathmandu",
         "country": "Nepal"
       }
+    },
+    {
+      "id": 859,
+      "name": "Shagun Bandi",
+      "img": "https://github.com/shagunbandi.png",
+      "links": {
+        "website": "",
+        "linkedin": "https://www.linkedin.com/in/shagunbandi/",
+        "github": "https://github.com/shagunbandi"
+      },
+      "jobTitle": "Full stack developer",
+      "location": {
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+      }
     }
   ]
 }
